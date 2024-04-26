@@ -608,6 +608,6 @@ b, strong {
   .social-links li {
     display: inline-block;
     vertical-align: top;
-    padding: 0 2rem;
+    margin:0 2rem; 
   }
 }
