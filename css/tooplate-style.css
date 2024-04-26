@@ -506,15 +506,7 @@ b, strong {
   color: #764ba2;
 
 }
-/* Footer */
-/* .footer-links {
-width: 2px;
-height: 20px;
-display: inline;
-border: 1px solid #0c0c0d;
-justify-content: space-between;
-align-items: inherit;
-} */
+
 @media (min-width: 1270px) {
   .owl-theme .owl-dots {
     position: relative;
@@ -616,5 +608,6 @@ align-items: inherit;
   .social-links li {
     display: inline-block;
     vertical-align: top;
+    padding: 0 2rem;
   }
 }
